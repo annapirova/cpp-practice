@@ -11,3 +11,7 @@ https://habrahabr.ru/post/119090/
 ### Компилирование под Linux / Mac 
 
 http://www.firststeps.ru/linux/general1.html шаг 3, шаг 5
+
+### Git
+
+Git Book https://git-scm.com/book/ru/v1
