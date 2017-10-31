@@ -2,9 +2,11 @@
 
 ### Google Test Framework
 
-https://github.com/google/googletest/blob/master/googletest/docs/Primer.md
+Основы (на русском): https://habrahabr.ru/post/119090/
 
-https://habrahabr.ru/post/119090/
+Основы: https://github.com/google/googletest/blob/master/googletest/docs/Primer.md
+
+Продвинутое использование: https://github.com/google/googletest/blob/master/googletest/docs/AdvancedGuide.md
 
 Примеры: https://github.com/google/googletest/blob/master/googletest/docs/Samples.md
 
@@ -23,6 +25,12 @@ Git Book https://git-scm.com/book/ru/v1
 ### CMake
 
 https://habrahabr.ru/post/155467/
+
+### Makefiles (Linux)
+
+Основы: https://habrahabr.ru/post/211751/
+
+Перевод документации: http://linux.yaroslavl.ru/docs/prog/gnu_make_3-79_russian_manual.html
 
 ### Алгоритмы и структуры данных
 
