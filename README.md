@@ -8,6 +8,10 @@ https://habrahabr.ru/post/119090/
 
 Примеры: https://github.com/google/googletest/blob/master/googletest/docs/Samples.md
 
+- Пример fixture и value parameterized test: https://github.com/annapirova/mp2-lab1-set/blob/complicated_tests/test/test_tbitfield.cpp
+
+- Пример type parameterized test: https://github.com/annapirova/mp2-lab2-matrix/blob/complicated_tests/test/additional_tests.cpp
+
 ### Компилирование под Linux / Mac 
 
 http://www.firststeps.ru/linux/general1.html шаг 3, шаг 5
@@ -15,6 +19,10 @@ http://www.firststeps.ru/linux/general1.html шаг 3, шаг 5
 ### Git
 
 Git Book https://git-scm.com/book/ru/v1
+
+### CMake
+
+https://habrahabr.ru/post/155467/
 
 ### Алгоритмы и структуры данных
 
