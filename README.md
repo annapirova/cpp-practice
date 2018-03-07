@@ -22,6 +22,12 @@ http://www.firststeps.ru/linux/general1.html шаг 3, шаг 5
 
 Git Book https://git-scm.com/book/ru/v1
 
+https://habrahabr.ru/company/playrix/blog/345732/
+
+https://habrahabr.ru/company/playrix/blog/348864/
+
+https://habrahabr.ru/company/playrix/blog/350492/
+
 ### CMake
 
 https://habrahabr.ru/post/155467/
