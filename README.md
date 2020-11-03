@@ -28,6 +28,9 @@ https://habrahabr.ru/company/playrix/blog/348864/
 
 https://habrahabr.ru/company/playrix/blog/350492/
 
+Git и Visual Studio
+https://docs.microsoft.com/en-us/azure/devops/repos/git/command-prompt?view=azure-devops
+
 ### CMake
 
 https://habrahabr.ru/post/155467/
