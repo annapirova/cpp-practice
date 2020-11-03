@@ -20,6 +20,8 @@ http://www.firststeps.ru/linux/general1.html шаг 3, шаг 5
 
 ### Git
 
+Презентации https://github.com/annapirova/mp2-lab1-set/tree/master/docs
+
 Git Book https://git-scm.com/book/ru/v1
 
 https://habrahabr.ru/company/playrix/blog/345732/
