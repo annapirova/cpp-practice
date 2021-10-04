@@ -4,11 +4,11 @@
 
 Основы (на русском): https://habrahabr.ru/post/119090/
 
-Основы: https://github.com/google/googletest/blob/master/googletest/docs/Primer.md
+Основы: https://github.com/google/googletest/blob/master/docs/primer.md
 
-Продвинутое использование: https://github.com/google/googletest/blob/master/googletest/docs/AdvancedGuide.md
+Продвинутое использование: https://github.com/google/googletest/blob/master/docs/advanced.md
 
-Примеры: https://github.com/google/googletest/blob/master/googletest/docs/Samples.md
+Примеры: https://github.com/google/googletest/tree/master/googletest/samples
 
 - Пример fixture и value parameterized test: https://github.com/annapirova/mp2-lab1-set/blob/complicated_tests/test/test_tbitfield.cpp
 
